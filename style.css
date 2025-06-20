@@ -1,0 +1,34 @@
+body {
+  background-color: #2f4f4f;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  background: #311313;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  background: #000000;
+  margin: 40px auto;
+  padding: 20px;
+  width: fit-content;
+  border: 10px solid #FF0606
+}
+
+.box {
+  background-color: #40e0d0;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 500px;
+  color: black;
+}
+
+.separator {
+  height: 10px;
+  background-color: black;
+}
